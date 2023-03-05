@@ -1,0 +1,1 @@
+{"customerSummaries":[{"customerId":1,"totalCostInCents":1000,"trips":[]},{"customerId":2,"totalCostInCents":1500,"trips":[]},{"customerId":3,"totalCostInCents":2000,"trips":[]}]}
